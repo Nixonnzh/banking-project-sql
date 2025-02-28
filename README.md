@@ -110,4 +110,4 @@ This project provides a data-driven approach to understanding banking customer b
 ---
 
 **Author:** Nixon Ng  
-**GitHub Repository:** [[GitHub-Nixon]](https://github.com/Nixonnzh)
+**GitHub Repository:** [[Nixonnzh]](https://github.com/Nixonnzh)
